@@ -35,5 +35,8 @@
       "name": "anders",
       "email": "anders-git@evantide.com"
     }
-  ]
+  ],
+  "devDependencies": {
+    "grunt-war": "^0.5.1"
+  }
 }
